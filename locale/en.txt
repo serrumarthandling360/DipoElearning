@@ -1,0 +1,67 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = SEKOLAH DIPONEGORO
+
+## Skin
+
+### Multiline Text
+HTMLText_986CF802_88D2_9D9D_41DE_DA7F922661C0.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;"><B>HIDDEN ITEM :</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;"><B>{{quiz.items.found}}</B></SPAN></SPAN></DIV></div>
+HTMLText_9996BD74_88EE_9664_41C3_D800A6E5239C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;"><B>TIME :</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;"><B>{{quiz.time.remaining}}</B></SPAN></SPAN></DIV></div>
+HTMLText_99E3634D_88D1_93A4_41DF_7221A5B5A089.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;"><B>SCORE :</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;"><B>{{quiz.media.score}}-{{quiz.media.score.total}}</B></SPAN></SPAN></DIV></div>
+HTMLText_9F968363_88D2_739C_41D4_FA8B74F64F43.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;"><B>TOTAL SCORE :</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;"><B>{{quiz.score}}/{{quiz.score.total}}</B></SPAN></SPAN></DIV></div>
+
+## Media
+
+### Title
+panorama_8D7DEBDC_866E_9D30_41B8_E4F032E26430.label = R0010740
+panorama_8F98E5BE_866E_9570_41CD_51FFFD267B58.label = R0010741
+panorama_8F9A328B_866E_EF10_41D2_07F972E3413F.label = R0010742
+panorama_8F9A85EA_866E_9510_41DE_48613EA59EA9.label = R0010746
+panorama_8F9A9916_866E_BD30_41A1_359CC8BD61AB.label = R0010745
+panorama_8F9A9CCC_866E_9B10_41C2_A996D78084C9.label = R0010744
+panorama_8F9A9F66_866E_F510_4184_2110431E4C22.label = R0010743
+panorama_8F9B1CA5_866F_9B10_41AC_C235BDE74419.label = R0010752
+panorama_8F9B9FCE_866E_7510_41E0_AEA263867865.label = R0010751
+panorama_8F9BB350_866E_6D30_41C6_663D3661E67B.label = R0010750
+panorama_8F9BF9C5_866F_BD11_41D5_D059F6BEA3C0.label = R0010753
+panorama_94B9659D_8697_9530_41DF_84307B4CE9AE.label = R0010747
+video_9833741D_88AF_B5A7_41CF_29A89EBE37B1.label = 07B82D11-7E13-4F07-90BF-25D67B61EEAC
+
+## E-Learning
+
+### Answer
+questionOption_8661B6F4_88B6_7264_41A5_15A25EDC4C7C.text = kapan yaaa
+questionOption_87A28C46_88B6_75A4_41DD_16210E769A6A.text = Semoga lekas buka
+questionOption_87A51E6C_88B6_7264_41DB_FC9D89BB808B.text = Semua benar
+questionOption_87AFDA36_88B6_7DE5_41C0_27EBB915487B.text = hmmm tau gak yaaa
+
+### Score Name
+score1.label = Score 1
+
+### Question
+question_987F2C21_88B7_B59C_41D5_285508A4DBE7.title = Kapan kantor Lampung akan dibuka, anda akan menjawab ?
+
+### Question Screen
+quizQuestion_8248FF2C_88AF_B3E4_41D3_D8C19721220C.ok = OK
+
+### Report Screen
+quizScore_8246EF2C_88AF_B3E4_41C9_ED9A1B573EFD.completion = Completed
+quizScore_8246EF2C_88AF_B3E4_41C9_ED9A1B573EFD.downloadCSV = Download .csv
+quizScore_8246EF2C_88AF_B3E4_41C9_ED9A1B573EFD.elapsedTime = Time
+quizScore_8246EF2C_88AF_B3E4_41C9_ED9A1B573EFD.items = Items Found
+quizScore_8246EF2C_88AF_B3E4_41C9_ED9A1B573EFD.questions = Questions
+quizScore_8246EF2C_88AF_B3E4_41C9_ED9A1B573EFD.questionsCorrect = Correct
+quizScore_8246EF2C_88AF_B3E4_41C9_ED9A1B573EFD.questionsIncorrect = Incorrect
+quizScore_8246EF2C_88AF_B3E4_41C9_ED9A1B573EFD.repeat = Repeat
+quizScore_8246EF2C_88AF_B3E4_41C9_ED9A1B573EFD.submitToLMS = Submit
+quizScore_8246EF2C_88AF_B3E4_41C9_ED9A1B573EFD.title = - SCORE -
+
+### Timeout Screen
+quizTimeout_8249DF2C_88AF_B3E4_41C5_772141FB8DD3.repeat = Repeat
+quizTimeout_8249DF2C_88AF_B3E4_41C5_772141FB8DD3.score = View Score
+quizTimeout_8249DF2C_88AF_B3E4_41C5_772141FB8DD3.title = - TIMEOUT -
